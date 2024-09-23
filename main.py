@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print_hi('Input name: ')
 
     print_hi('Input firstname: ')
+    rint_hi('Input lastaname: ')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
